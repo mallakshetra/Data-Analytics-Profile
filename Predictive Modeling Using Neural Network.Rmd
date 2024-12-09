@@ -1,5 +1,5 @@
 ---
-title: "(Neural Networks)"
+title: "Neural Networks Predictive Modeling Project"
 author: "Kshetra Bom Malla"
 date: "`r Sys.Date()`"
 output:
